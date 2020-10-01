@@ -1,0 +1,29 @@
+#game {
+    margin: 10px;
+    background-color: black;
+}
+
+
+.score {
+
+    float:right;
+    font-size: 24px;
+}
+
+.head {
+    margin: 10px;
+    width: 800px;
+}
+
+.name {
+    float: left;
+    font-size: 32px;
+}
+
+.gameArea{
+    width: 820px;
+    position:absolute;
+    left:50%;
+    margin:0 0 0 -410px;
+
+}
